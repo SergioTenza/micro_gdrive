@@ -2,9 +2,9 @@
 
 Simple NodeJs Micro Service to upload Images to Google Drive Shared Folder and get a public URL to share.   
 
-You need to setup a Service Account on Google Cloud
-You need to obtain your ServiceAccountCred.json from Google Cloud
-You need to share a folder with the Service Account
+You need to setup a Service Account on Google Cloud    
+You need to obtain your ServiceAccountCred.json from Google Cloud    
+You need to share a folder with the Service Account    
 
 
 Usage:    
