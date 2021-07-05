@@ -8,5 +8,5 @@ You need to share a folder with the Service Account
 
 
 Usage:    
-use http://localhost:7001/gdrive to upload manually.
+use http://localhost:7001/gdrive to upload manually.     
 use POST multidata/form-data to upload Image with fields fileName and folderName (Google Drive shared folder ID)
